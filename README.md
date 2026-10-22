@@ -1,0 +1,2 @@
+# LocalPulse-AI-sau-OmniTranscript-Local-Un-Hub-Local-Privat-de-Transcriere-Rezumare-i-Minare-
+Într-o eră în care toată lumea folosește instrumente cloud pentru transcrieri (care costă bani și pun probleme de confidențialitate), tot mai mulți dezvoltatori și utilizatori își doresc alternative local-first, care rulează direct pe hardware-ul propriu (GPU/CPU), protejând datele personale sau de business (ședințe, interviuri, cursuri
